@@ -1,4 +1,4 @@
-# react-native-starter
+# react-native-basics
 
 Simple counter application created with react-native
 
